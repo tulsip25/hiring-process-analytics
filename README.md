@@ -1,7 +1,4 @@
 # hiring-process-analytics
-The Hidden Cost of a Slow Hiring Process
-Recruiting Funnel Analytics | SQL · Power BI · DAX
-
 # The Hidden Cost of a Slow Hiring Process
 ### Recruiting Funnel Analytics | SQL · Power BI · DAX
 
