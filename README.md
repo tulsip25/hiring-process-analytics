@@ -25,7 +25,6 @@ Using SQL for data exploration and validation and Power BI for data visualizatio
 <!-- Upload your Power BI dashboard screenshot to the images/ folder, then uncomment the line below. -->
 <!-- ![Recruiting Funnel Analytics Dashboard](images/hiring-dashboard.png) -->
 
-*Dashboard preview coming soon.*
 
 The Power BI dashboard includes:
 
