@@ -142,4 +142,4 @@ The next step would be to validate the findings against real operational data an
 **Dataset:** Synthetic recruiting funnel data  
 ## Hiring Process Analytics Dashboard
 
-![Hiring Process Analytics Dashboard](images/hiring_dashboard.png)
+![Hiring Process Analytics Dashboard](images/hiring_dashboard.png.png)
