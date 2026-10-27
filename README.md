@@ -136,8 +136,10 @@ Based on the findings, the following actions are recommended for further investi
 This project demonstrates how recruiting data can be explored, validated, and translated into business-focused reporting. By identifying potential stage-level delays, examining recorded candidate outcomes, and comparing recruiting sources, the analysis provides a starting point for evidence-based recruiting process improvement.
 
 The next step would be to validate the findings against real operational data and track whether targeted changes improve turnaround times, candidate experience, and hiring outcomes.
-
 ---
 **Project type:** HR Analytics / People Analytics  
 **Tools:** SQL, Power BI, DAX  
 **Dataset:** Synthetic recruiting funnel data  
+## Hiring Process Analytics Dashboard
+
+![Hiring Process Analytics Dashboard](images/hiring_dashboard.png)
